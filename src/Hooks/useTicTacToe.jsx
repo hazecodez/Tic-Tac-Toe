@@ -33,7 +33,7 @@ const useTicTacToe = () => {
 
   const resetGame = () => {
     setBoard(initrialValues);
-    setIsXNext(true)
+    setIsXNext(true);
   };
 
   const handleClick = (index) => {
