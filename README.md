@@ -20,13 +20,13 @@ This is a simple Tic Tac Toe game built using React.js. The project was created 
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/hazecodez/Tic-Tac-Toe.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd tic-tac-toe
 ```
 
 Install dependencies
